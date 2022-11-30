@@ -1,2 +1,2 @@
-t0;276;0chr
-yh
+def magic_calculation(a, b):
+    return (98 + a ** b)
