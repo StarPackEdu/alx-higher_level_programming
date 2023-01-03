@@ -1,3 +1,0 @@
-thr
-ththr
-g
